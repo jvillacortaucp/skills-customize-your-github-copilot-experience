@@ -58,6 +58,34 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "class-enrollment-crud",
+      "title": "Class Enrollment CRUD",
+      "description": "Build a Python program to create, view, update, and delete class enrollment records.",
+      "path": "assignments/class-enrollment-crud",
+      "dueDate": "2026-04-09",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Create a REST API in Python using FastAPI for managing class enrollment records.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-04-09",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
